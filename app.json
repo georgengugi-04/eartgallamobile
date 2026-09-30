@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "E-ArtGalla",
+    "slug": "eartgalla-mobile",
+    "scheme": "eartgalla",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#080808",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.eartgalla.mobile"
+    },
+    "android": {
+      "package": "com.eartgalla.mobile"
+    },
+    "plugins": ["expo-secure-store", "expo-notifications"]
+  }
+}
